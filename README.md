@@ -8,4 +8,4 @@ npm install
 
 ### Compiles and fetches weather forecast from location
 ```
-npm app.js location
+node app.js location
